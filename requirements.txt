@@ -5,4 +5,3 @@ scipy
 matplotlib
 python-csv
 os-sys
-demjson3
