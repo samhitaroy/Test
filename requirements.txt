@@ -2,7 +2,7 @@ numpy
 pandas
 scipy
 matplotlib
-csv
+python-csv
 sys
 os
 pathlib
