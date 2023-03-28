@@ -2,3 +2,8 @@ numpy
 pandas
 scipy
 matplotlib
+csv
+sys
+os
+pathlib
+subprocess
