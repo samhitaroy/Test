@@ -5,4 +5,3 @@ matplotlib
 python-csv
 os-sys
 pathlib
-subprocess
