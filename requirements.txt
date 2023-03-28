@@ -5,5 +5,5 @@ scipy
 matplotlib
 python-csv
 os-sys
-demjson
+demjson3
 pathlib
