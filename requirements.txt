@@ -4,5 +4,5 @@ pandas
 scipy
 matplotlib
 python-csv==0.0.10
-os-sys==2.1.3
+os-sys
 pathlib
