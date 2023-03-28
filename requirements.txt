@@ -3,5 +3,6 @@ pandas
 scipy
 matplotlib
 python-csv==0.0.10
+wheel
 os-sys
 pathlib
