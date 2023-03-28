@@ -1,6 +1,7 @@
-setuptools==58
 numpy
 pandas
 scipy
 matplotlib
 python-csv==0.0.10
+os-sys
+pathlib
