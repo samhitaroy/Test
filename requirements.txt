@@ -3,7 +3,6 @@ pandas
 scipy
 matplotlib
 python-csv
-sys
-os
+os-sys
 pathlib
 subprocess
